@@ -21,7 +21,7 @@ public class TaskOneTest {
 
 	}
 
-	public void testThatSquareTwoNumbers(){
+	public void testSubtractNumbers(){
 	int actual = TaskOne.subtractionOfSquare(16,4);
 	int expected = 12;
 	assertEquals = (actual,expected);
