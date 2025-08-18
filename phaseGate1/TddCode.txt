@@ -1,0 +1,14 @@
+code on terminal
+javac -cp "junit-platform-console-standalone-1.9.2.jar" AddNumber.java(classname) AddNumberTdd.java (Testname)
+java -jar junit-platform-console-standalone-1.9.2jar -cp . --select-class AddNumberTdd(classname)
+
+testinside the testing file
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.Test;
+
+public class AddNumberTdd {
+
+
+	}
