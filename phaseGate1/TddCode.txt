@@ -1,6 +1,6 @@
 code on terminal
-javac -cp "junit-platform-console-standalone-1.9.2.jar" AddNumber.java(classname) AddNumberTdd.java (Testname)
-java -jar junit-platform-console-standalone-1.9.2jar -cp . --select-class AddNumberTdd(classname)
+javac -cp "junit-platform-console-standalone-1.9.2.jar" TaskOne.java TaskOneTdd.java
+java -jar junit-platform-console-standalone-1.9.2jar -cp . --select-class TaskOneTdd
 
 testinside the testing file
 
