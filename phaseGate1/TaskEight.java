@@ -5,26 +5,20 @@
 
 	    int[] sizes = {1,2,3,4,5};
 
-
-	    largest();
-} 
-	    public static int largest(num){
+}
+	    int sum = 0
+	    public static int sum(num){
 	    for (int index = 0; index <= 5; index++){
 
-	    largest = 0;
+	            sum += index;	
 
-	           if (largest > index){
-		
-			largest = index;
-	       
 		     }
-
 	    }
 	
-	    return largest;
+	    return sum;
 
        }
-
+ 
 
 
 
