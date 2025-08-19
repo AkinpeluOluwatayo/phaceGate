@@ -1,8 +1,8 @@
 code on terminal
-javac -cp "junit-platform-console-standalone-1.9.2.jar" TaskOne.java TaskOneTdd.java
-java -jar junit-platform-console-standalone-1.9.2jar -cp . --select-class TaskOneTdd
+javac -cp "junit-platform-console-standalone-1.9.2.jar"  TaskOneTest.java
+java -jar junit-platform-console-standalone-1.9.2jar -cp . --select-class TaskOneTest
 
-testinside the testing file
+
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
