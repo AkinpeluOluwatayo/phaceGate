@@ -12,3 +12,26 @@
       
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+complete the function so that if finds the average of the three scores passed to it and returns the letter
+values associated with that grade
+numerical score         letter grade
+90 <= score <= 100	   A
