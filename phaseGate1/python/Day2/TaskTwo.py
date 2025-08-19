@@ -10,4 +10,5 @@ def gradeScore (score1, score2, score3):
 			elif (average <= 60 && < 70):
 				return D
 
-			else (return F):
+			else:	
+				return F
