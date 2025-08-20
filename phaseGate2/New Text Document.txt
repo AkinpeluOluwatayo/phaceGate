@@ -1,0 +1,47 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+random_integer = random.randint(1, 100)
+math.random
+ Random random = new Random();
+
+        int randomInt = random.nextInt();
+
+        System.out.println("Random Integer: " + randomInt);
+
+let randomNumber = Math.random();
+
+return Math.floor(Math.random() * (max - min + 1)) + min;
+
+
+int userAnswer = scanner.nextInt(); 
+    attemptedQuestions++;
