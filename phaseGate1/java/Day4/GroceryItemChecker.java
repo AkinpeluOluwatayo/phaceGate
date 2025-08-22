@@ -66,7 +66,6 @@ homepage();
 		System.out.println("Select option");
 	        int removeItem = inputCollector.nextInt();
 
-
 		switch(removeItem){
 		case 1:
 		      System.out.println("Cornflakes has been successfully removed...");
@@ -95,17 +94,9 @@ homepage();
 			 System.out.println("Available items: " + item1);
 				}
 
-
-
-
 }
-
-
 		
      }
 	
-
       }
-
-
 }
